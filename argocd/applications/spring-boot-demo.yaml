@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: spring-boot-demo
-    repoURL: git@github.com:marknazareno/gitops-apps-prod.git
+    repoURL: https://github.com/marknazareno/gitops-apps-prod.git
     targetRevision: HEAD
   syncPolicy:
     automated: {}
