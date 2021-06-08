@@ -1,3 +1,2 @@
 resources:
   - github.com/marknazareno/gitops-system-base/cert-manager
-  - ns.yaml
